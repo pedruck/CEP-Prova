@@ -6,9 +6,9 @@ Sistema para Análise Estatística de Processos Industriais (CEP)
 - todos os htmls da resolução da prova estão dentro do /src
 - resolução da questão 3: relatorio_problema_cep.html
 - resolução da questão 2.3:
-relatório_cep_xr(QUESTAO 2.3)
+relatório_cep_xr(QUESTAO 2.3).html
 - resolução das demais questões: 
-relatório_cep_xr(LIMITES DE ESPECIFICAÇÃO NORMAL)
+relatório_cep_xr(LIMITES DE ESPECIFICAÇÃO NORMAL).html
 - A resolução da 2.3 foi feita alterando os limites de especificação do grafico XR que são passados como parâmetros em xr.set_especification_limits()
 
 
