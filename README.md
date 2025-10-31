@@ -3,7 +3,7 @@
 Sistema para Análise Estatística de Processos Industriais (CEP)
 
 ## OBSERVAÇÕES RELACIONADAS A PROVA:
-- todos os html da resolução da prova estão dentro do /src
+- todos os htmls da resolução da prova estão dentro do /src
 - resolução da questão 3: relatorio_problema_cep.html
 - resolução da questão 2.3:
 relatório_cep_xr(QUESTAO 2.3)
