@@ -1,0 +1,14 @@
+[
+  {"Amostra": 1, "Inspecionados": 100, "Defeituosos": 5},
+  {"Amostra": 2, "Inspecionados": 120, "Defeituosos": 4},
+  {"Amostra": 3, "Inspecionados": 95,  "Defeituosos": 7},
+  {"Amostra": 4, "Inspecionados": 110, "Defeituosos": 3},
+  {"Amostra": 5, "Inspecionados": 100, "Defeituosos": 8},
+  {"Amostra": 6, "Inspecionados": 105, "Defeituosos": 6},
+  {"Amostra": 7, "Inspecionados": 98,  "Defeituosos": 5},
+  {"Amostra": 8, "Inspecionados": 130, "Defeituosos": 9},
+  {"Amostra": 9, "Inspecionados": 90,  "Defeituosos": 2},
+  {"Amostra": 10, "Inspecionados": 100, "Defeituosos": 4},
+  {"Amostra": 11, "Inspecionados": 115, "Defeituosos": 7},
+  {"Amostra": 12, "Inspecionados": 102, "Defeituosos": 6}
+]

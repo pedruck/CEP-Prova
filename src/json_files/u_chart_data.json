@@ -1,0 +1,12 @@
+[
+  {"Amostra": 1, "Unidades": 50,  "Defeitos": 12},
+  {"Amostra": 2, "Unidades": 60,  "Defeitos": 8},
+  {"Amostra": 3, "Unidades": 45,  "Defeitos": 10},
+  {"Amostra": 4, "Unidades": 55,  "Defeitos": 9},
+  {"Amostra": 5, "Unidades": 50,  "Defeitos": 14},
+  {"Amostra": 6, "Unidades": 65,  "Defeitos": 11},
+  {"Amostra": 7, "Unidades": 48,  "Defeitos": 7},
+  {"Amostra": 8, "Unidades": 70,  "Defeitos": 15},
+  {"Amostra": 9, "Unidades": 52,  "Defeitos": 6},
+  {"Amostra": 10, "Unidades": 50,  "Defeitos": 8}
+]
